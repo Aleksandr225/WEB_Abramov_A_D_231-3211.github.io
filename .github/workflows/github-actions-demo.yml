@@ -11,5 +11,5 @@ jobs:
       - run: 
       - run: 
       - name: List files in the repository
-        run: index.html
+        run: xdg-open index.html
       
